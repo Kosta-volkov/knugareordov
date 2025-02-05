@@ -1,0 +1,151 @@
+body{
+    background-color: #51B687;
+   font-family: sans-serif;
+   
+ }
+
+ header{
+    background-color: #D5F0D9;
+    border-radius: 20px;
+ }
+
+ main{
+    background-color: #D5F0D9;
+    text-align: center; 
+    border-radius: 20px;
+    
+ }
+
+ h1{
+    font-size: 35px;
+    text-align: center;
+    color: #296248;
+    margin: 9px 0px;
+    padding: 10px 0px;
+ }
+
+.kor{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 10px 5px 5px #000080;
+    
+ }
+
+
+nav{
+   text-align: center;
+   padding: 25px 0px; 
+   margin: 30px 0px; 
+   background-color: #D5F0D9;
+   border-radius: 20px;
+
+   
+}
+
+nav a{
+  background-color: #51B687;
+    color: #296248;
+    padding: 15px 15px;
+    margin: 25px 25px; 
+    border-radius: 10px;
+    text-decoration: none;
+    box-shadow: 10px 5px 5px #92D1AE; 
+
+}
+
+main{
+   color: #296248;   
+}
+
+
+main h2{
+   text-align: center;
+}
+
+iframe{
+   width: 600px;
+    height: 500px;
+    border-radius: 20px;
+}
+
+.petyx{
+   Width: 500px; 
+   height: 400px;
+   border-radius: 20px; 
+}
+
+.mosta{
+   Width:500px;
+   height:300px;
+   border-radius: 20px;
+}
+
+.gira{
+    
+    height:600px;
+    border-radius: 20px;
+}
+
+.dog{
+   
+   height:300px;
+   border-radius: 20px; 
+}
+
+ul{
+   list-style-position: inside; padding-left: 0;
+}
+
+.redi{
+   
+   height:800px;
+   border-radius:20px;
+}
+
+.tarza{
+   height:300px;
+   border-radius:20px;
+}
+
+.bili{
+   height: 300px;
+   border-radius: 20px;
+}
+
+
+.kot{
+   height: 300px;
+   border-radius: 20px;
+}
+
+.pizci{
+   height: 300px;
+   border-radius: 20px;
+}
+
+.med{
+   height: 300px;
+   border-radius: 20px;
+}
+
+.gnom{
+   height: 300px;
+   border-radius: 20px;
+}
+
+footer{
+   background-color: #D5F0D9;
+   border-radius: 20px;
+   text-align:center;
+}
+
+footer p{
+}
+
+img{
+   box-shadow: 10px 5px 5px #008000;
+}
+
+
